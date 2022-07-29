@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Shaurya
-- 👀 I’m interested in Coding specificly HTML, CSS & JS
-- 🌱 I’m currently learning JS
-- 📫 How to reach me shaurya50211@gmail.com
+- 👋 Hi, I’m Shaurya Gupta, a passionate developer
+- 👀 I’m interested in iOS Development
+- 🌱 I’m currently learning Swift
+- 📫 Reach me at shaurya50211@gmail.com
 
 <!---
 Shaurya50211/Shaurya50211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
