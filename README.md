@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shaurya Gupta, a passionate developer
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning JS
 - 📫 Reach me at shaurya50211@gmail.com
 
 <!---
