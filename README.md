@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Shaurya Gupta, a passionate developer
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning JS
+- 👋 Hi, I’m Shaurya Gupta, a young passionate developer from Canada
+- 👀 I’m interested in iOS and Web Dev
+- 🌱 I’m currently learning Swift, HTML, Tailwindcss & JS
 - 📫 Reach me at shaurya50211@gmail.com
 
 <!---
