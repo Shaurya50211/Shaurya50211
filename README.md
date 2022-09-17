@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/shaurya50211" target="blank"><img src="https://img.shields.io/twitter/follow/shaurya50211?logo=twitter&style=for-the-badge" alt="shaurya50211" /></a> </p>
 
-- 🔭 I’m currently working on **an iOS AR App**
-
 - 🌱 I’m currently learning **Swift and Web Development**
 
 - 🤝 I’m looking for help with **Javascript**
