@@ -1,13 +1,12 @@
 [![MasterHead](https://www.empover.com/sites/default/files/inline-images/ios-banner.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shaurya Gupta!</h1>
 <h3 align="center">A passionate developer from Canada</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaurya50211&label=Profile%20views&color=0e75b6&style=flat" alt="shaurya50211" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shaurya50211" target="blank"><img src="https://img.shields.io/twitter/follow/shaurya50211?logo=twitter&style=for-the-badge" alt="shaurya50211" /></a> </p>
 
-- 🌱 I’m currently learning **Swift and Web Development**
+- 🌱 I’m currently learning **Swift and JSt**
 
 - 🤝 I’m looking for help with **Javascript**
 
