@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/shaurya50211" target="blank"><img src="https://img.shields.io/twitter/follow/shaurya50211?logo=twitter&style=for-the-badge" alt="shaurya50211" /></a> </p>
 
-- 🌱 I’m currently learning **Swift and JS**
+- 🌱 I’m currently learning **React and JavaScript**
 
-- 🤝 I’m looking for help with **Javascript and SwiftUI**
+- 🤝 I’m looking for help with **JavaScript and SwiftUI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shaurya50211?tab=repositories](https://github.com/Shaurya50211?tab=repositories)
 
-- 💬 Ask me about **Swift and iOS Development**
+- 💬 Ask me about **Swift and iOS Development & Tech**
 
 - 📫 How to reach me **shaurya50211@gmail.com**
 
