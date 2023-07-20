@@ -23,5 +23,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=swift,firebase,html,css,tailwind,javascript&theme=light)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya50211&" alt="shaurya50211" /></p>
+![GitHub Streak](https://streak-stats.demolab.com?user=shaurya50211&theme=swift&hide_border=true)
+
 <p><img align="center" src="https://holopin.me/thechosenone" alt="holopin-board"/></p>
