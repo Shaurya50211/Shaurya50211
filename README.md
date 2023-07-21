@@ -2,9 +2,9 @@
 <h1 align="center">Hey 👋, I'm Shaurya Gupta!</h1>
 <h3 align="center">A passionate developer from Canada</h3>
 
-- 🌱 I’m currently learning **React and JavaScript**
+- 🌱 I’m currently learning **Tailwind CSS**
 
-- 🤝 I’m looking for help with **JavaScript and SwiftUI**
+- 🤝 I’m looking for help with **Web and SwiftUI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shaurya50211?tab=repositories](https://github.com/Shaurya50211?tab=repositories)
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://codepen.io/shaurya50211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shaurya50211" height="30" width="40" /></a> <a href="https://twitter.com/shaurya50211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaurya50211" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/shaurya-gupta-b32794249/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="shaurya50211" height="30" width="40" /></a>
+	<a href="https://twitter.com/shaurya50211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaurya50211" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/shaurya-gupta-b32794249/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="shaurya50211" height="30" width="40" /></a>
 </p>
 
 <h2>My Skills</h2>
