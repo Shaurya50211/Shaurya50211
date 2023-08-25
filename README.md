@@ -2,10 +2,6 @@
 <h1 align="center">Hey 👋, I'm Shaurya Gupta!</h1>
 <h3 align="center">A passionate developer from Canada</h3>
 
-- 🌱 I’m currently learning **Tailwind CSS**
-
-- 🤝 I’m looking for help with **Web and SwiftUI**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Shaurya50211?tab=repositories](https://github.com/Shaurya50211?tab=repositories)
 
 - 💬 Ask me about **Swift and iOS Development & Tech**
