@@ -1,4 +1,6 @@
-[![MasterHead](https://www.empover.com/sites/default/files/inline-images/ios-banner.jpg)](https://rishavchanda.io)
+
+![Social 16x9 (1)](https://github.com/Shaurya50211/Shaurya50211/assets/74823287/681eaa56-0201-42e5-9bfd-667a6e3ea188)
+
 <h1 align="center">Hey 👋, I'm Shaurya Gupta!</h1>
 <h3 align="center">A passionate developer from Canada</h3>
 
