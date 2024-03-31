@@ -1,5 +1,7 @@
 
-![Social 16x9 (1)](https://github.com/Shaurya50211/Shaurya50211/assets/74823287/681eaa56-0201-42e5-9bfd-667a6e3ea188)
+
+<img src="https://github.com/Shaurya50211/Shaurya50211/assets/74823287/4a706f75-dfd4-45bb-a3a2-e74e89485cb8">
+
 
 <h1 align="center">Hey 👋, I'm Shaurya Gupta!</h1>
 <h3 align="center">A passionate developer from Canada</h3>
